@@ -2,6 +2,7 @@ blueflower
 ==========
 
 ![logo](blueflower.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fblueflower.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fblueflower?ref=badge_shield)
 
 blueflower is a command-line tool that looks for secrets such as private keys
 or passwords in a file structure.
@@ -248,3 +249,7 @@ The [`siphash.py`](blueflower/utils/siphash.py) module is copyright (c)
 The drawing in the image [`blueflower.jpg`](blueflower.jpg) is copyright
 (c) 2014 Melina Aumasson, and under [CC BY-NC-ND
 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fblueflower.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fblueflower?ref=badge_large)
